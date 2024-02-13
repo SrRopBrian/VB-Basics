@@ -1,0 +1,17 @@
+C:\Users\kipng\source\repos\Lab1\Lab1\bin\Debug\net8.0-windows\Lab1.exe
+C:\Users\kipng\source\repos\Lab1\Lab1\bin\Debug\net8.0-windows\Lab1.deps.json
+C:\Users\kipng\source\repos\Lab1\Lab1\bin\Debug\net8.0-windows\Lab1.runtimeconfig.json
+C:\Users\kipng\source\repos\Lab1\Lab1\bin\Debug\net8.0-windows\Lab1.dll
+C:\Users\kipng\source\repos\Lab1\Lab1\bin\Debug\net8.0-windows\Lab1.pdb
+C:\Users\kipng\source\repos\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.Form1.resources
+C:\Users\kipng\source\repos\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.Object_Demonstrations.resources
+C:\Users\kipng\source\repos\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.vbproj.GenerateResource.cache
+C:\Users\kipng\source\repos\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kipng\source\repos\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.AssemblyInfoInputs.cache
+C:\Users\kipng\source\repos\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.AssemblyInfo.vb
+C:\Users\kipng\source\repos\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.vbproj.CoreCompileInputs.cache
+C:\Users\kipng\source\repos\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.dll
+C:\Users\kipng\source\repos\Lab1\Lab1\obj\Debug\net8.0-windows\refint\Lab1.dll
+C:\Users\kipng\source\repos\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.pdb
+C:\Users\kipng\source\repos\Lab1\Lab1\obj\Debug\net8.0-windows\Lab1.genruntimeconfig.cache
+C:\Users\kipng\source\repos\Lab1\Lab1\obj\Debug\net8.0-windows\ref\Lab1.dll
