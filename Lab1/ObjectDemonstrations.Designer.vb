@@ -22,6 +22,7 @@ Partial Class Object_Demonstrations
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()> _
     Private Sub InitializeComponent()
+        components = New ComponentModel.Container()
         PictureBox1 = New PictureBox()
         RadioButton1 = New RadioButton()
         RadioButton2 = New RadioButton()
@@ -39,6 +40,8 @@ Partial Class Object_Demonstrations
         RadioButton7 = New RadioButton()
         Button1 = New Button()
         Button2 = New Button()
+        ToolTip1 = New ToolTip(components)
+        ToolTip2 = New ToolTip(components)
         CType(PictureBox1, ComponentModel.ISupportInitialize).BeginInit()
         GroupBox1.SuspendLayout()
         GroupBox2.SuspendLayout()
@@ -216,6 +219,7 @@ Partial Class Object_Demonstrations
         Button1.Size = New Size(142, 52)
         Button1.TabIndex = 8
         Button1.Text = "EXIT"
+        ToolTip1.SetToolTip(Button1, "Close this Window")
         Button1.UseVisualStyleBackColor = True
         ' 
         ' Button2
@@ -225,7 +229,14 @@ Partial Class Object_Demonstrations
         Button2.Size = New Size(172, 52)
         Button2.TabIndex = 9
         Button2.Text = "Load Picture"
+        ToolTip2.SetToolTip(Button2, "Upload an Image from your computer")
         Button2.UseVisualStyleBackColor = True
+        ' 
+        ' ToolTip1
+        ' 
+        ToolTip1.AutoPopDelay = 5000
+        ToolTip1.InitialDelay = 100
+        ToolTip1.ReshowDelay = 100
         ' 
         ' Object_Demonstrations
         ' 
@@ -271,4 +282,6 @@ Partial Class Object_Demonstrations
     Friend WithEvents RadioButton7 As RadioButton
     Friend WithEvents Button1 As Button
     Friend WithEvents Button2 As Button
+    Friend WithEvents ToolTip1 As ToolTip
+    Friend WithEvents ToolTip2 As ToolTip
 End Class

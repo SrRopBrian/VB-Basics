@@ -22,8 +22,11 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
+        components = New ComponentModel.Container()
         Button1 = New Button()
         Button2 = New Button()
+        ToolTip1 = New ToolTip(components)
+        ToolTip2 = New ToolTip(components)
         SuspendLayout()
         ' 
         ' Button1
@@ -33,6 +36,7 @@ Partial Class Form1
         Button1.Size = New Size(188, 65)
         Button1.TabIndex = 0
         Button1.Text = "Load Object Demo"
+        ToolTip2.SetToolTip(Button1, "Object Demo Window")
         Button1.UseVisualStyleBackColor = True
         ' 
         ' Button2
@@ -42,6 +46,7 @@ Partial Class Form1
         Button2.Size = New Size(121, 65)
         Button2.TabIndex = 1
         Button2.Text = "EXIT"
+        ToolTip1.SetToolTip(Button2, "Quit the Application")
         Button2.UseVisualStyleBackColor = True
         ' 
         ' Form1
@@ -59,5 +64,7 @@ Partial Class Form1
 
     Friend WithEvents Button1 As Button
     Friend WithEvents Button2 As Button
+    Friend WithEvents ToolTip2 As ToolTip
+    Friend WithEvents ToolTip1 As ToolTip
 
 End Class
