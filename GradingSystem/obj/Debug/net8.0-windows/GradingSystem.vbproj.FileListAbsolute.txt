@@ -1,0 +1,16 @@
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.GradingSystem.resources
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.GenerateResource.cache
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfoInputs.cache
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.AssemblyInfo.vb
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.vbproj.CoreCompileInputs.cache
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.exe
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.deps.json
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.runtimeconfig.json
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.dll
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\bin\Debug\net8.0-windows\GradingSystem.pdb
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.dll
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\refint\GradingSystem.dll
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.pdb
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\GradingSystem.genruntimeconfig.cache
+E:\CS\2.2\DESIGN & IMPLEMENTATION OF COMP. APPS\GradingSystem\GradingSystem\obj\Debug\net8.0-windows\ref\GradingSystem.dll
